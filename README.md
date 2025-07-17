@@ -11,7 +11,7 @@
 🎓 I'm a Master's student in Computer Science at **SUNY Binghamton**  
 💼 Previously worked on scalable backend systems at **PNC Bank** and enterprise-scale applications  
 🌍 Based in the US | F1 OPT Visa  
-🌱 Currently learning **System Design to build scalable applications**, **Design Pattern**, and enhancing my **Kubernetes skills**
+🌱 Currently learning **System Design to build scalable applications**, **Design Patterns**, and enhancing my **Kubernetes skills**
 
 ---
 
@@ -34,8 +34,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrugankjadhav&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrugankjadhav&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=mj301296&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mj301296&theme=radical" height="150">
 </p>
 
 <p align="center">
