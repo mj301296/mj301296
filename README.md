@@ -46,10 +46,10 @@
 
 ### 🚀 Featured Projects
 
-🔹 [**Car Rental Front Office System**](https://github.com/mrugankjadhav/car-rental-app)  
+🔹 [**Car Rental Front Office System**](https://github.com/mj301296/rateshop-frontend)  
 > Microservices-based fleet and rental management platform using Spring Boot, React, FastAPI & AWS EKS
 
-🔹 [**Car Price Prediction API**](https://github.com/mrugankjadhav/car-price-predictor)  
+🔹 [**Car Price Prediction API**](https://github.com/mj301296/CarRentalPredictionApi)  
 > ML-powered rent prediction API deployed on ECS with FastAPI, Docker, and CI/CD via GitHub Actions
 
 
