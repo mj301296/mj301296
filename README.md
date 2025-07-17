@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mrugank 👋</h1>
+<h1 align="center">Hi there, I'm Mrugank Jadhav 👋</h1>
 
 <p align="center">
   <em>Backend-Focused Full Stack Developer | Cloud-Native Engineer | AWS | Java | Kubernetes</em>
