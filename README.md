@@ -9,7 +9,7 @@
 ### 🔧 About Me
 
 🎓 I'm a Master's student in Computer Science at **SUNY Binghamton**  
-💼 Previously worked on scalable backend systems at **PNC Bank** and enterprise-scale applications  
+💼 Previously worked on scalable backend systems and enterprise-scale applications  
 🌍 Based in the US | F1 OPT Visa  
 🌱 Currently learning **System Design to build scalable applications**, **Design Patterns**, and enhancing my **Kubernetes skills**
 
